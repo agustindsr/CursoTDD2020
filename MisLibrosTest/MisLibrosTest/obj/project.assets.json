@@ -4634,11 +4634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ad65198\\source\\repos\\MisLibrosTest\\MisLibrosTest\\MisLibrosTest.csproj",
+      "projectUniqueName": "C:\\Users\\ad65198\\source\\repos\\CursoTDD\\MisLibrosTest\\MisLibrosTest\\MisLibrosTest.csproj",
       "projectName": "MisLibrosTest",
-      "projectPath": "C:\\Users\\ad65198\\source\\repos\\MisLibrosTest\\MisLibrosTest\\MisLibrosTest.csproj",
+      "projectPath": "C:\\Users\\ad65198\\source\\repos\\CursoTDD\\MisLibrosTest\\MisLibrosTest\\MisLibrosTest.csproj",
       "packagesPath": "C:\\Users\\ad65198\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ad65198\\source\\repos\\MisLibrosTest\\MisLibrosTest\\obj\\",
+      "outputPath": "C:\\Users\\ad65198\\source\\repos\\CursoTDD\\MisLibrosTest\\MisLibrosTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EA6pYqQcaKQGZN5jWh1n47pcEaqUH2a2TAw7Aj+VFtATxBml5w2pIwVixWd42itx4PHCbqAcv3mrv9IH1FFD6Q==",
+  "dgSpecHash": "uKbS2UY93OQvsgrONk2aR7oGZyoouCe65Q9wPn7CmfSQI7Rt30/A88vvT2tDS1GHQn4FyAgDvbQMXLyqzpBSLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ad65198\\source\\repos\\MisLibrosTest\\MisLibrosTest\\MisLibrosTest.csproj",
+  "projectFilePath": "C:\\Users\\ad65198\\source\\repos\\CursoTDD\\MisLibrosTest\\MisLibrosTest\\MisLibrosTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ad65198\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\ad65198\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
